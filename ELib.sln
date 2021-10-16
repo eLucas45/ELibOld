@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELibCode", "ELibCode\ELibCode.csproj", "{951D3B89-91E3-4FF4-9D24-7A2B5A57015E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp4Elib", "TestApp4Elib\TestApp4Elib.csproj", "{6F6D91B4-3431-4DA1-9FF7-FFCBC1728009}"
+	ProjectSection(ProjectDependencies) = postProject
+		{951D3B89-91E3-4FF4-9D24-7A2B5A57015E} = {951D3B89-91E3-4FF4-9D24-7A2B5A57015E}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951D3B89-91E3-4FF4-9D24-7A2B5A57015E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951D3B89-91E3-4FF4-9D24-7A2B5A57015E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951D3B89-91E3-4FF4-9D24-7A2B5A57015E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951D3B89-91E3-4FF4-9D24-7A2B5A57015E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6D91B4-3431-4DA1-9FF7-FFCBC1728009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6D91B4-3431-4DA1-9FF7-FFCBC1728009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6D91B4-3431-4DA1-9FF7-FFCBC1728009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6D91B4-3431-4DA1-9FF7-FFCBC1728009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6562C1E9-0E44-459A-B586-A51B70874C55}
+	EndGlobalSection
+EndGlobal
