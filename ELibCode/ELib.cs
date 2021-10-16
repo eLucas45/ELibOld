@@ -90,7 +90,7 @@ namespace ELibCode
             }
             return false;
         }
-        public static bool ContinueCheck(String key, string[] YesInput)
+        private static bool ContinueCheck(String key, string[] YesInput)
         {
             bool revalue = false;
             for (int i = 0; i < YesInput.Length; i++)
@@ -313,7 +313,7 @@ namespace ELibCode
             }
             return Way2(key, firstWay);
         }
-        public static bool Way2(string key, string twoWay)
+        private static bool Way2(string key, string twoWay)
         {
             bool revalue = false;
             if (key == twoWay)
