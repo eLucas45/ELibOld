@@ -88,9 +88,9 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ELibCode\ELibCode.csproj">
+    <ProjectReference Include="..\ELibCode\ELib.csproj">
       <Project>{951d3b89-91e3-4ff4-9d24-7a2b5a57015e}</Project>
-      <Name>ELibCode</Name>
+      <Name>ELib</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
