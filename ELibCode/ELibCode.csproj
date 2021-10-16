@@ -7,9 +7,9 @@
     <ProjectGuid>{951D3B89-91E3-4FF4-9D24-7A2B5A57015E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ELibCode</RootNamespace>
-    <AssemblyName>ELibCode</AssemblyName>
-    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <RootNamespace>ELib</RootNamespace>
+    <AssemblyName>ELib</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <TargetFrameworkProfile />
