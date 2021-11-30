@@ -1,0 +1,6 @@
+/home/limiteddev/Documents/Code/ELib/ELib/bin/Debug/ELib.dll
+/home/limiteddev/Documents/Code/ELib/ELib/bin/Debug/ELib.pdb
+/home/limiteddev/Documents/Code/ELib/ELib/obj/Debug/ELib.csproj.AssemblyReference.cache
+/home/limiteddev/Documents/Code/ELib/ELib/obj/Debug/ELib.csproj.CoreCompileInputs.cache
+/home/limiteddev/Documents/Code/ELib/ELib/obj/Debug/ELib.dll
+/home/limiteddev/Documents/Code/ELib/ELib/obj/Debug/ELib.pdb

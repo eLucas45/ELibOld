@@ -1,0 +1,9 @@
+/home/limiteddev/Documents/Code/ELib/TestApp/bin/Debug/TestApp.exe
+/home/limiteddev/Documents/Code/ELib/TestApp/bin/Debug/TestApp.pdb
+/home/limiteddev/Documents/Code/ELib/TestApp/obj/Debug/TestApp.csproj.AssemblyReference.cache
+/home/limiteddev/Documents/Code/ELib/TestApp/obj/Debug/TestApp.csproj.CoreCompileInputs.cache
+/home/limiteddev/Documents/Code/ELib/TestApp/obj/Debug/TestApp.csproj.CopyComplete
+/home/limiteddev/Documents/Code/ELib/TestApp/obj/Debug/TestApp.exe
+/home/limiteddev/Documents/Code/ELib/TestApp/obj/Debug/TestApp.pdb
+/home/limiteddev/Documents/Code/ELib/TestApp/bin/Debug/ELibCode.dll
+/home/limiteddev/Documents/Code/ELib/TestApp/bin/Debug/ELibCode.pdb
